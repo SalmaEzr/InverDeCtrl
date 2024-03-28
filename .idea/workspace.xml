@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7b5700-98ce-44f6-b90e-c88215607c14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f7b5700-98ce-44f6-b90e-c88215607c14" name="Changes" comment=" part2 MenOE_inject_dep">
       <change afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dao/IDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ext/DaoImpl2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ext/DaoImplVWS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/metier/IMetier.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pres/Pres2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pres/Presentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +86,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711584788460</updated>
     </task>
+    <task id="LOCAL-00001" summary=" part2 MenOE_inject_dep">
+      <option name="closed" value="true" />
+      <created>1711586611733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711586611733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" part2 MenOE_inject_dep" />
+    <option name="LAST_COMMIT_MESSAGE" value=" part2 MenOE_inject_dep" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
